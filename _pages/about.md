@@ -81,7 +81,9 @@ redirect_from:
 <span class='anchor' id='-contests'></span>
 
 # 🏅 竞赛
-- 2024.05, [美国大学生数学建模竞赛](https://www.comap.com/contests/mcm-icm)特等奖提名 ([Finalist](https://www.comap-math.org/mcm/2024Certs/2418844.pdf), Top 2%), [查看参赛论文](/files/A%20network%20flow%20control%20model%20for%20the%20water%20level%20%20of%20the%20Great%20Lakes.pdf)
+- 2024.05, [美国大学生数学建模竞赛](https://www.comap.com/contests/mcm-icm)特等奖提名 ([Finalist](https://www.comap-math.org/mcm/2024Certs/2418844.pdf), Top 2%)
+  - 题目类型：D(运筹学/网络科学)
+  - [查看参赛论文](/files/A%20network%20flow%20control%20model%20for%20the%20water%20level%20%20of%20the%20Great%20Lakes.pdf)
 - 2023.09, 全国大学生数学建模竞赛江苏赛区二等奖
 - 2023.01, 全国大学生数学竞赛三等奖
 - 2022.11, 江苏省大学生高等数学竞赛一等奖
