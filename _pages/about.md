@@ -27,7 +27,7 @@ redirect_from:
 # 🎓 教育经历
 ## 2021.09 - 2025.06，本科
 - [东南大学](https://www.seu.edu.cn)，[交通学院](https://tc.seu.edu.cn)，交通工程 (茅以升)，南京
-- GPA：3.75/4.0，均分：88.79
+- GPA：3.75/4.0
 - 主修课程：交通规划(97), 城市公共交通规划与运营管理(92), 交通系统分析, 交通大数据分析, 学术阅读与写作 (94), 工科数学分析(93), 线性代数(94), 概率论与数理统计(92), 数据结构与算法(93)
 
 <span class='anchor' id='-research-experiences'></span>
@@ -110,5 +110,9 @@ redirect_from:
 - Python, C++, Markdown, Latex, SSH
 - ArcGIS, Vissim, Transtar, Office, Navicat
 - 海报制作, 网站搭建
+
+---
+
+如果你喜欢这个主页的模板，欢迎 star 和 fork [任意](https://github.com/RayeRen)的开源模板[AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 ---
