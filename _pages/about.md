@@ -113,6 +113,6 @@ redirect_from:
 
 ---
 
-如果你喜欢这个主页的模板，欢迎 star 和 fork [任意](https://github.com/RayeRen)的开源模板[AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+如果你喜欢这个主页的风格，欢迎 star 和 fork [任意](https://github.com/RayeRen)的开源模板[AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
 
 ---
