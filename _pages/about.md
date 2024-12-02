@@ -33,10 +33,6 @@ redirect_from:
 <span class='anchor' id='-research-experiences'></span>
 
 # 🔍 科研经历
-## ⛏️ 基于Frank Wolfe算法求解交通分配用户均衡模型
-- 2024.03-2024.03, <u>独立完成</u>, 课外主动学习 
-- **个人博客链接：** [知乎](https://zhuanlan.zhihu.com/p/686191698), [Github](https://github.com/zychai/frank-wolfe-UE), [CSDN](http://t.csdnimg.cn/HbiXa)
-
 ## 🚌 城市公共交通规划与运营管理实训
 - 2024.02-2024.06, <u>项目核心成员</u>, 课程实训
 - **实训内容**
