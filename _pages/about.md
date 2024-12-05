@@ -75,8 +75,11 @@ redirect_from:
 <span class='anchor' id='-skills'></span>
 
 # 💻 技能
-- Python, C++, Markdown, Latex, Typst
-- ArcGIS, Vissim,  Office, Navicat, MySQL
+- Python, C++
+- Markdown, Latex, Typst, Office
+- ArcGIS, Vissim, SUMO
+- Gurobi
+- Navicat, MySQL
 - 海报制作, 网站搭建
 
 ---
